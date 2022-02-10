@@ -84,7 +84,7 @@ Lista de usuários que concluiram o jogo acompanhado do número de fases que o j
             <th>Versão do jogo</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/vitor-mat">vitor-mat</a></td>
+            <td><a href="https://github.com/\\\\wilianBrz">WilianBrz</a></td>
             <td>25 fases</td>
         </tr>
     </table>
