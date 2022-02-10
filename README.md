@@ -1,8 +1,10 @@
 ### Olá, eu sou Wilian
 
 - 🌱 Comecei a estudar programação com o início da pandemia e desde então não parei mais.
-- 🔭 Estou sempre em busca de conhecimento seja em programação ou segurança da informação.
-- ⭐ tenho 18 anos e sou apaixonado por TI
+- 🔭 Estou sempre em busca de conhecimento seja em programação ou segurança da informação ou demais areas.
+- ⭐ tenho 18 anos e sou apaixonado por TI e jogos.
+- Gosto de Pixel art também.
+- estou a procura do meu primeiro emprego como Dev.
 
 
 <div align="center">
